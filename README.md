@@ -1,6 +1,6 @@
 # GithubFinder Browser
 
-A simple TypeScript API that returns Github user's favourite language. 
+A simple API (TypeScript) that returns Github user's favourite language. 
 
 ## Technologies used
 
